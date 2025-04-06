@@ -1,2 +1,2 @@
 # ReDIschool_FinalProject
-Python coding projects done in July 2024
+Final project of data analysis and visualization done at ReDI school using Python, SQL, and Looker Studio
