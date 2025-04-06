@@ -1,2 +1,2 @@
-# Coding-projects_July2024
+# ReDIschool_FinalProject
 Python coding projects done in July 2024
